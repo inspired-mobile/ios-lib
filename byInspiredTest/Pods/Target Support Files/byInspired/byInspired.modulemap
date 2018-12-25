@@ -1,0 +1,6 @@
+framework module byInspired {
+  umbrella header "byInspired-umbrella.h"
+
+  export *
+  module * { export * }
+}

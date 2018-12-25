@@ -1,0 +1,16 @@
+PODS:
+  - byInspired (1.0.0)
+
+DEPENDENCIES:
+  - byInspired (~> 1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - byInspired
+
+SPEC CHECKSUMS:
+  byInspired: c59b1051b46961de296dc97590cea75b6bbf382d
+
+PODFILE CHECKSUM: a862322aa2411e557cc397579d6d4ca89229caa8
+
+COCOAPODS: 1.5.3

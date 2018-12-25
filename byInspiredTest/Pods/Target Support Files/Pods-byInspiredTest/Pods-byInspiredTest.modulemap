@@ -1,0 +1,6 @@
+framework module Pods_byInspiredTest {
+  umbrella header "Pods-byInspiredTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
